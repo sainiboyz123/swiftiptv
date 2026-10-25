@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="demo-1" group-title="Apple Test Streams",Bip Bop (fMP4)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="demo-2" group-title="Apple Test Streams",Bip Bop (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="demo-3" group-title="Apple Test Streams",Bip Bop 16x9
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="demo-4" group-title="Apple Test Streams HD",Bip Bop HEVC
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
+#EXTINF:-1 tvg-id="demo-5" group-title="Apple Test Streams HD",Dolby Vision and Atmos sample
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
